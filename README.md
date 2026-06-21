@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=220&section=header&text=Ayush%20Rathore&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20%7C%20Breaking%20%7C%20Debugging%20%7C%20Repeating&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=220&section=header&text=Ayush%20Kumar%20Rathore&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20%7C%20Breaking%20%7C%20Debugging%20%7C%20Repeating&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://github.com/your-username">
