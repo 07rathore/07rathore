@@ -1,24 +1,256 @@
-# 💫 About Me:
-I am a B.Tech Computer Science (AI) undergraduate (’28) with interests spanning software development, AI, and core computer science fundamentals. I work with Python, Java, and Web Development (HTML, CSS, JavaScript) and am strengthening my foundation in DSA, OOP, and core CS subjects, alongside preparation for GATE.<br><br>Beyond academics, I enjoy learning by exploring. My curiosity has taken me from Arduino-based IoT projects to experimenting with video editing, UI/graphic design, and building quick prototypes during hackathons. I also have strong presentation skills, developed through team-based projects and clearly communicating ideas in collaborative environments.<br><br>Outside tech, I find balance in playing guitar, boxing and MMA, sketching, reading philosophy and geopolitics, and writing poetry. I see myself as a “jack of all trades, master in progress”—curious, adaptable, and steadily building depth where it matters.<br><br>I am open to internships, collaborative projects, and learning-driven opportunities where I can grow while contributing meaningfully.
+<div align="center">
 
+<!-- Animated wave header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=220&section=header&text=Ayush%20Rathore&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20%7C%20Breaking%20%7C%20Debugging%20%7C%20Repeating&descAlignY=58&descSize=18" width="100%"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rathore.a007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rathore07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushkr.rathore@gmail.com) 
+<!-- Typing animation -->
+<a href="https://github.com/your-username">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI%2FML+Enthusiast+%7C+B.Tech+CSE+%28AI%29+%E2%80%9924-%E2%80%9928;GATE+CS+Aspirant+%E2%80%94+Target+2027%2F2028;Building+real+things%2C+not+just+tutorials;Philosophy+nerd+%C2%B7+Chess+%C2%B7+MMA+%C2%B7+Sketching&font=Fira+Code&center=true&width=700&height=50&color=38BDF8&vCenter=true&size=22&pause=1500"/>
+</a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=07rathore&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=07rathore&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=07rathore&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0ea5e9&style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/CGPA-7.37-38BDF8?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/GATE-Target%202027-f97316?style=for-the-badge&logo=target&logoColor=white"/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=07rathore&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
----
-[![](https://komarev.com/ghpvc/?username=07rathore&icon=0&color=0)](https://visitcount.itsvg.in)
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ───────────────────────────────────────────────── -->
+<!-- ABOUT -->
+<!-- ───────────────────────────────────────────────── -->
+
+## 🧠 About Me
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=your-username&theme=tokyonight&hide_border=true" width="0" height="0" alt=""/>
+
+```python
+class AyushRathore:
+    def __init__(self):
+        self.role          = "B.Tech CSE (AI) — 2nd Year @ MCE, Motihari"
+        self.batch         = "2024 – 2028 (BEU, Bihar)"
+        self.focus_now     = ["GATE CS 2027/28 prep", "Internship hunt", "AI/ML projects"]
+        self.philosophy    = ["Nietzsche", "Kafka", "Osho", "Robert Greene"]
+        self.weapons       = ["Python", "C++", "Java", "React", "GenAI APIs"]
+        self.guilty_habit  = "starting 5 things, finishing 2 — actively fixing this 🔧"
+
+    def current_obsession(self):
+        return "Depth > breadth. Finally learning to finish what I start."
+
+me = AyushRathore()
+```
+
+> *"He who has a why to live can bear almost any how."* — Nietzsche, probably explaining my GATE prep schedule.
+
+<br/>
+
+<!-- ───────────────────────────────────────────────── -->
+<!-- WHAT I'M DOING -->
+<!-- ───────────────────────────────────────────────── -->
+
+## 🎯 What I'm Up To
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 GATE CS Prep
+- 🔥 Following **PW Prakram Batch B**
+- ⚙️ Computer Organization & Architecture
+- 🗄️ DBMS, CN, TOC in the pipeline
+- 🧮 DSA grind on the side (LeetCode daily)
+- 🎯 Target: **2027** first attempt → **2028** PSU-serious
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Building & Shipping
+- 🤖 **DSA Sage** — AI DSA tutor (React + Flask + GPT-4o-mini)
+- ❤️ **CardioSense AI** — heart risk predictor (React + DeepSeek R1)
+- 🌾 **AgriTech GenAI** — Gemini-powered crop assistant
+- 🛒 **VyaparSaathi** — built in a 24-hr hackathon sprint
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ───────────────────────────────────────────────── -->
+<!-- TECH STACK -->
+<!-- ───────────────────────────────────────────────── -->
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css&theme=dark" />
+
+### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,flask,nodejs,tailwind&theme=dark" />
+
+### AI / Cloud / Tools
+<img src="https://skillicons.dev/icons?i=tensorflow,gcp,git,github,vercel,vscode&theme=dark" />
+
+</div>
+
+<br/>
+
+<details>
+<summary><b>🧩 Click to expand full toolkit breakdown</b></summary>
+<br/>
+
+| Category | Stack |
+|---|---|
+| **Core Languages** | Python · C++ · Java · JavaScript |
+| **Web Dev** | HTML5 · CSS3 · React · Tailwind · Node.js |
+| **AI / GenAI** | Gemini API · DeepSeek R1 · Ollama · GPT-4o-mini (GitHub Models) |
+| **Cloud** | Google Cloud Platform · Vercel · Render · Netlify |
+| **Data Viz** | Recharts · Matplotlib |
+| **Certifications** | Oracle OCI GenAI Professional · Oracle AI Foundations Associate · HackerRank Python |
+| **Currently Learning** | FastAPI · PostgreSQL · Docker · Proper Git workflows |
+
+</details>
+
+<br/>
+
+<!-- ───────────────────────────────────────────────── -->
+<!-- FEATURED PROJECTS -->
+<!-- ───────────────────────────────────────────────── -->
+
+## 💡 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 [DSA Sage](https://github.com/your-username/dsa-sage)
+AI-powered DSA learning companion built for the **Microsoft Innovation Agent League** hackathon.
+<br/>
+`React` `Flask` `GPT-4o-mini` `Vercel` `Render`
+
+</td>
+<td width="50%">
+
+### ❤️ [CardioSense AI](https://github.com/your-username/cardiosense-ai)
+Heart-disease risk predictor built at **Harvard HSIL × IIT Patna**.
+<br/>
+`React` `Tailwind` `Recharts` `DeepSeek R1`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌾 [AgriTech GenAI](https://github.com/your-username/agritech-genai)
+GenAI-powered farming assistant from **AI Hajipur × Google** hackathon.
+<br/>
+`Gemini API` `Google Cloud` `ADK`
+
+</td>
+<td width="50%">
+
+### 🛒 [VyaparSaathi](https://github.com/your-username/vyaparsaathi)
+Built in 24 hours at **Byte Quest**, hosted by GFG.
+<br/>
+`Hackathon Build` `Rapid Prototyping`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ───────────────────────────────────────────────── -->
+<!-- GITHUB STATS -->
+<!-- ───────────────────────────────────────────────── -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=f97316&text_color=c9d1d9&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&langs_count=8" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=f97316&point=ffffff" width="49%"/>
+
+</div>
+
+<br/>
+
+<!-- ───────────────────────────────────────────────── -->
+<!-- TROPHIES & ACHIEVEMENTS -->
+<!-- ───────────────────────────────────────────────── -->
+
+## 🏆 Trophies & Wins
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub&no-frame=true&no-bg=true&row=1&margin-w=15&column=7"/>
+</div>
+
+- 🥉 **3rd Place** — CodeQuest, Zero One Coding Club (MCE, 2025)
+- 🌟 **Best Coder of the Batch** — CodeQuest
+- 🎖️ Hackathon builds at **Harvard HSIL × IIT Patna**, **AI Hajipur × Google**, **Byte Quest (GFG)**
+- 🤖 Shipped **DSA Sage** for the **Microsoft Innovation Agent League**
+
+<br/>
+
+<!-- ───────────────────────────────────────────────── -->
+<!-- SNAKE GAME (contribution animation) -->
+<!-- ───────────────────────────────────────────────── -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<sub>↑ Add the <a href="https://github.com/Platane/snk">snk GitHub Action</a> to your profile repo to auto-generate this</sub>
+</div>
+
+<br/>
+
+<!-- ───────────────────────────────────────────────── -->
+<!-- CONNECT -->
+<!-- ───────────────────────────────────────────────── -->
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/your-leetcode"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://instagram.com/your-instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💭 Currently grinding through:
+
+<img src="https://progress-bar.dev/65/?title=COA&width=300&color=38bdf8"/>
+<br/>
+<img src="https://progress-bar.dev/45/?title=DBMS&width=300&color=f97316"/>
+<br/>
+<img src="https://progress-bar.dev/30/?title=DSA%20%28LeetCode%29&width=300&color=22c55e"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+*"Wide exposure feels like progress. Depth is progress."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a8a,100:0f172a&height=120&section=footer"/>
+
+</div>
