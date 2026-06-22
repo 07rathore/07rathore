@@ -44,8 +44,7 @@ class AyushRathore:
 me = AyushRathore()
 ```
 
-> *"He who has a why to live can bear almost any how."* — Nietzsche, probably explaining my GATE prep schedule.
-
+> *"He who has a why to live can bear almost any how."* — Nietzsche, i keep reminding it myself.
 I'm open to internships, collaborative projects, and learning-driven opportunities where I can grow while contributing meaningfully.
 
 <br/>
@@ -65,7 +64,7 @@ I'm open to internships, collaborative projects, and learning-driven opportuniti
 - ⚙️ Computer Organization & Architecture
 - 🗄️ DBMS, CN, TOC in the pipeline
 - 🧮 DSA grind on the side (LeetCode daily)
-- 🎯 Target: **2027** first attempt → **2028** PSU-serious
+- 🎯 Target: **2027** first attempt → **2028** serious
 
 </td>
 <td width="50%" valign="top">
@@ -259,11 +258,9 @@ Built in 24 hours at **Byte Quest**, hosted by GFG.
 
 ### 💭 Currently grinding through:
 
-<img src="https://progress-bar.dev/65/?title=COA&width=300&color=38bdf8"/>
-<br/>
-<img src="https://progress-bar.dev/45/?title=DBMS&width=300&color=f97316"/>
-<br/>
-<img src="https://progress-bar.dev/30/?title=DSA%20%28LeetCode%29&width=300&color=22c55e"/>
+<img src="https://img.shields.io/badge/COA-65%25-38bdf8" />
+<img src="https://img.shields.io/badge/DBMS-45%25-f97316" />
+<img src="https://img.shields.io/badge/DSA%20(LeetCode)-30%25-22c55e" />
 
 </div>
 
