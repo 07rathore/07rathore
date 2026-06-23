@@ -1,5 +1,7 @@
 <div align="center">
 
+
+
 <!-- Animated wave header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=220&section=header&text=Ayush%20Rathore&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Jack%20of%20All%20Trades%20%C2%B7%20Master%20in%20Progress&descAlignY=58&descSize=18" width="100%"/>
 
@@ -217,7 +219,7 @@ Built in 24 hours at **Byte Quest**, hosted by GFG.
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/07rathore/07rathore/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/07rathore/07rathore/output/github-contribution-grid-snake.svg" width="100%"/>
 
 <sub>↑ Powered by the <a href="https://github.com/Platane/snk">snk GitHub Action</a> — set it up once and it auto-updates daily.</sub>
 </div>
