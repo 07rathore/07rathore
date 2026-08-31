@@ -14,7 +14,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=07rathore&label=Profile%20Views&color=0ea5e9&style=for-the-badge"/>
 &nbsp;
-<img src="https://img.shields.io/badge/CGPA-7.37-38BDF8?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/CGPA-7.76-38BDF8?style=for-the-badge&logo=googlescholar&logoColor=white"/>
 &nbsp;
 <img src="https://img.shields.io/badge/GATE-Target%202027-f97316?style=for-the-badge&logo=target&logoColor=white"/>
 
